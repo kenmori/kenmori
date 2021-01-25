@@ -9,5 +9,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/india_japan_moritakenji/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenji-morita-8804b7188/)
  
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenmori&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenmori)](https://github.com/anuraghazra/github-readme-stats)
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

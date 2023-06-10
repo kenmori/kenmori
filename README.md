@@ -1,6 +1,6 @@
 # kenmori
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://vbr.wocr.tk/badge?page_id=kenmori)
 
 ### Hi there, I'm <a href="https://kenjimorita.jp" target="_blank">Kenji Morita</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 

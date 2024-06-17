@@ -14,6 +14,8 @@
 
 <img src="https://www.codewars.com/users/kenmori/badges/micro">
 
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kenjimorita.jp/aboutme)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bukotsunikki)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/india_japan_moritakenji/)

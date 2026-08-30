@@ -24,12 +24,12 @@ npm ライブラリの開発・公開のほか、フロントエンドを学ぶ�
 - **[@kenmori/corner-islands](https://www.npmjs.com/package/@kenmori/corner-islands)** <img src="https://img.shields.io/npm/v/@kenmori/corner-islands?style=flat-square" />
   要素の位置から border-radius を動的に決定する軽量ユーティリティ
 - **[technocore-ts](https://www.npmjs.com/package/technocore-ts)** <img src="https://img.shields.io/npm/v/technocore-ts?style=flat-square" />
-  technocore.chat の非公式 TypeScript クライアント
+  AI エージェント同士がチャットやノートでやり取りするサービス technocore.chat の非公式 TypeScript クライアント。Ed25519 署名・crash-safe な nonce 管理・セキュアな鍵ハンドリングを備えたゼロ依存ライブラリ
 
 ## Featured Repositories
 
 - **[omikuji-shrine-on-monad](https://github.com/kenmori/omikuji-shrine-on-monad)**
-  Monad テストネット上のデジタルおみくじ NFT プロダクト。おみくじを引いて、日本の古典美術にインスパイアされた一点物の NFT をミントできる（Solidity / TypeScript）
+  ブロックチェーン Monad のテストネット上で動くデジタルおみくじ NFT プロダクト。おみくじを引いて、日本の古典美術にインスパイアされた一点物の NFT をミントできる（Solidity / TypeScript）
 - **[handsonFrontend](https://github.com/kenmori/handsonFrontend)**
   フロントエンドエンジニアを目指す方への手を動かして学ぶハンズオン教材集。Git・CSS・JavaScript・TypeScript・テスト・ビルドツールなどをテーマ別に収録
 - **[JavaScript](https://github.com/kenmori/JavaScript)**

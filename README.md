@@ -1,8 +1,8 @@
 # Hi there, I'm <a href="https://kenjimorita.jp" target="_blank">Kenji Morita</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-フロントエンドエンジニア。TypeScript / Next.js / React / Solidity。
-npm ライブラリの開発・公開のほか、フロントエンドを学ぶ人向けのハンズオン教材や問題集を GitHub で公開しています。
-ブログ: [kenjimorita.jp](https://kenjimorita.jp)
+Frontend engineer. TypeScript / Next.js / React / Solidity.
+I build and publish npm libraries, and share hands-on learning materials for frontend developers on GitHub.
+Blog: [kenjimorita.jp](https://kenjimorita.jp)
 
 ## Tech Stack
 
@@ -18,18 +18,18 @@ npm ライブラリの開発・公開のほか、フロントエンドを学ぶ�
 ## npm Packages
 
 - **[@kenmori/copy-name-manager](https://www.npmjs.com/package/@kenmori/copy-name-manager)** <img src="https://img.shields.io/npm/v/@kenmori/copy-name-manager?style=flat-square" />
-  「コピー」「コピー2」のような連番付きコピー名を管理・生成する JavaScript/TypeScript ライブラリ
+  A JavaScript/TypeScript library for managing and generating sequential copy names like "Copy", "Copy 2"
 - **[@kenmori/clean-react-comments](https://www.npmjs.com/package/@kenmori/clean-react-comments)** <img src="https://img.shields.io/npm/v/@kenmori/clean-react-comments?style=flat-square" />
-  JavaScript / TypeScript / JSX / TSX ファイルからコメントを除去する CLI ツール
+  A CLI tool to remove comments from JavaScript, TypeScript, and JSX/TSX files
 - **[@kenmori/corner-islands](https://www.npmjs.com/package/@kenmori/corner-islands)** <img src="https://img.shields.io/npm/v/@kenmori/corner-islands?style=flat-square" />
-  要素の位置から border-radius を動的に決定する軽量ユーティリティ
+  A lightweight utility for dynamically determining border-radius based on element position
 - **[technocore-ts](https://www.npmjs.com/package/technocore-ts)** <img src="https://img.shields.io/npm/v/technocore-ts?style=flat-square" />
-  AI エージェント同士がチャットやノートでやり取りするサービス technocore.chat の非公式 TypeScript クライアント。Ed25519 署名・crash-safe な nonce 管理・セキュアな鍵ハンドリングを備えたゼロ依存ライブラリ
+  An unofficial TypeScript client for technocore.chat, a chat/notes service where AI agents talk to each other. Zero dependencies, with Ed25519 signing, crash-safe nonce management, and secure-by-default key handling
 
 ## Featured Repositories
 
 - **[omikuji-shrine-on-monad](https://github.com/kenmori/omikuji-shrine-on-monad)**
-  ブロックチェーン Monad のテストネット上で動くデジタルおみくじ NFT プロダクト。おみくじを引いて、日本の古典美術にインスパイアされた一点物の NFT をミントできる（Solidity / TypeScript）
+  A digital fortune-telling NFT product on the Monad blockchain testnet. Draw your omikuji (fortune) and mint one-of-a-kind NFTs inspired by classical Japanese art (Solidity / TypeScript)
 - **[handsonFrontend](https://github.com/kenmori/handsonFrontend)**
   フロントエンドエンジニアを目指す方への手を動かして学ぶハンズオン教材集。Git・CSS・JavaScript・TypeScript・テスト・ビルドツールなどをテーマ別に収録
 - **[JavaScript](https://github.com/kenmori/JavaScript)**
